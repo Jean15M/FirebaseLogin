@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "305595918604",
+    "project_id": "proyectom4a-bdf4f",
+    "storage_bucket": "proyectom4a-bdf4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305595918604:android:715784e850b97add010129",
+        "android_client_info": {
+          "package_name": "com.ista.loginfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKUfwW489iXbVCXx0Iz6APMlPcZ5S9JKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
